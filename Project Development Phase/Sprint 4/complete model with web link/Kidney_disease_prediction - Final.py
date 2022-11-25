@@ -193,7 +193,7 @@ pd.set_option('display.max_columns',29)
 # In[3]:
 
 
-df = pd.read_csv("kidney.csv")
+df = pd.read_csv("E:\Github\IBM-Project-12995-1659505556\Project Development Phase\Sprint 4\complete model with web link\kidney.csv")
 
 
 # In[4]:
